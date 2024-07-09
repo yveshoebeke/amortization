@@ -1,4 +1,4 @@
-<h1><img src="docs/string_explode.png" style="height:30px;width:30px;float:left;"/>&nbsp;&nbsp;String Amortization</h1>
+<h1><img src="docs/amortization.png" style="height:30px;width:30px;float:left;"/>&nbsp;&nbsp;Amortization</h1>
 
 ## Amortization Calculator
 
